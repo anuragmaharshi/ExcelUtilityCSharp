@@ -1,0 +1,6 @@
+#bin folder
+bin
+obj
+packages
+*.suo
+.vs
